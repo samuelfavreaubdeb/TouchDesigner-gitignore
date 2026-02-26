@@ -33,7 +33,7 @@ logs/
 */logs/
 
 
-# Generated .toe variants
+# Increment files on save
 *.*.toe
 */*.*.toe
 *Autosave*.toe
